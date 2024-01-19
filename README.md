@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RitikKumawat
-- Currently I am learning Full Stack Development
+- I am a Full Stack Developer
 - 📫 How to reach me ritikkumawat011202@gmail.com
 
 <!---
