@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RitikKumawat
 - I am a Full Stack Developer
-- 📫 How to reach me ritikkumawat011202@gmail.com
+- 📫 How to reach me rtkkmwt@gmail.com
 
 <!---
 RitikKumawat/RitikKumawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
